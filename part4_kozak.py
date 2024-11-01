@@ -65,10 +65,10 @@ frequency = {}  # dictionary for counting PFW
 
 a = 0
 
-d1 = {	'A': 0, 
-	  	'C': 0, 
-	  	'G': 0,
-	  	'T': 0 	}
+d1 = {		'A': 0, 
+		'C': 0, 
+		'G': 0,
+		'T': 0 		}
 
 for i in range(14):
 	a += 1
